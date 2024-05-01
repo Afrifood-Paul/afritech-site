@@ -31,7 +31,7 @@ export const Navbar = () => {
     </div>
   </div>
   
-  <div className='float-end -mt-11 mb-2'>
+  <div className='flex justify-end -mt-11'>
     
   <button data-collapse-toggle="navbar-default" type="button" class="inline-flex  items-center p-2 w-10 h-10 justify-center text-sm text-yellow-600 rounded-lg md:hidden focus:outline-none" aria-controls="navbar-default" aria-expanded="false"
      onClick={() => setshowMenu(!showMenu)}
