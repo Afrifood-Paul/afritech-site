@@ -2,7 +2,7 @@ import React from 'react';
 
 export const About = () => {
   return (
-   <section id='about' className='w-[50%] mx-auto pb-10 md:-mt-0 2xl:-mt-72'>
+   <section id='about' className='w-[50%] mx-auto mt-10 pb-10 md:-mt-0 2xl:-mt-72'>
     <h1 className='skillTitle text-center text-3xl font-bold py-3 text-yellow-600'>What I DO </h1>
     <p className='skillDesc text-center text-[10px] w-[70vw] sm:w-[100%] -ms-10 sm:-ms-0 sm:text-sm pb-5 md:pb-10'>
         I am a skilled and passionate Web Developer with experience in building a mavel web applications and user friendly interface.

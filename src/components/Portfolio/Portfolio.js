@@ -25,7 +25,7 @@ const DrawOutlineButton = ({ children, ...rest }) => {
 
 export const Portfolio = () => {
   return (
-    <section id='portfolio' className='w-[50%] mx-auto pb-10 2xl:mt-24'>
+    <section id='portfolio' className='w-[50%] mx-auto mt-2 pb-10 2xl:mt-24'>
     <h1 className='skillTitle text-center text-3xl font-bold py-3 text-yellow-600'>My Portfolio </h1>
     <p className='skillDesc text-center text-[10px] w-[70vw] sm:w-[100%] -ms-10 sm:-ms-0 sm:text-sm pb-5 md:pb-10'>
         I take pride in paying attention to the smallest details and making sure that my work is programatically perfect.

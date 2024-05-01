@@ -63,5 +63,10 @@ body{
     color: rgb(255, 179, 0);
     border-bottom: 3px solid rgb(255, 179, 0);
   }
+
+  .navMenu{
+    display: flex;
+    flex-direction: column;
+  }
   
   
